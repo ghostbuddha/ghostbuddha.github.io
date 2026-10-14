@@ -1,2 +1,2 @@
 # ghostbuddha.github.io
-GitHub Pages Quickstart
+Can I remove my name at the top?
